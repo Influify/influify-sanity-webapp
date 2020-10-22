@@ -9,7 +9,7 @@ export default {
             name: 'netlify',
             options: {
               description:
-                'NOTE: Because these sites are static builds, they need to be re-deployed to see the changes when documents are published.',
+                'NOTE: After you make an edit to your Influify site you must click deploy.',
               sites: [
                 {
                   buildHookId: '5f91cec5ca83f613fcfb30c3',
